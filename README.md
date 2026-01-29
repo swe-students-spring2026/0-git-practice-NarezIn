@@ -13,3 +13,6 @@ I want to share a course web site called **The Missing Semester of Your CS Educa
 
 ### uwa's comment:
 This is a really interesting article that highlights how some schools may overlook certain elements when teaching students Computer Science. The article provides some nice, useful resources, and a concise, clearly laid-out out schedule.
+
+### NarezIn's comment to uwa's comment:
+Indeed!
