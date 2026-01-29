@@ -10,3 +10,6 @@ I want to share a course web site called **The Missing Semester of Your CS Educa
     - Even though I am not quite proficient in using *Vim*, I do find this way of editing files with keeping your hands around the center of your keyboard interesting and it can be efficient if you are familiar with it.
     - Custimizing my own *Vim configuration* is also fun.
 - The syllabus of this course evolves quickly as the tech world evolves. For example, the latest version of this course removed *Vim* but added *Agentic Coding*.
+
+### uwa's comment:
+This is a really interesting article that highlights how some schools may overlook certain elements when teaching students Computer Science. The article provides some nice, useful resources, and a concise, clearly laid-out out schedule.
